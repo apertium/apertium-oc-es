@@ -31,6 +31,7 @@ es-tagger-data/README -text
 /modes.xml -text
 /oc-es-supervised.make -text
 /oc-es-unsupervised.make -text
+/oc-es.prob -text svneol=unset#unset
 oc-tagger-data/README -text
 /oc@aran-es.prob -text
 /principal.xsl -text
