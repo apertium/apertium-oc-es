@@ -1,41 +1,7 @@
-* text=auto !eol
-/AUTHORS -text
-/COPYING -text
-/ChangeLog -text
-/Makefile.am -text
-/NEWS -text
-/README -text
-/alt.xsl -text
-/apertium-oc-es.es-oc.t1x -text
-/apertium-oc-es.es-oc.t2x -text
-/apertium-oc-es.es-oc.t3x -text
-/apertium-oc-es.es.dix -text
-/apertium-oc-es.es.tsx -text
-/apertium-oc-es.oc-es.dix -text
-/apertium-oc-es.oc-es.t1x -text
-/apertium-oc-es.oc-es.t2x -text
-/apertium-oc-es.oc-es.t3x -text
-/apertium-oc-es.oc.metadix -text
-/apertium-oc-es.oc.tsx -text
-/apertium-oc-es.post-es.dix -text
-/apertium-oc-es.post-oc.dix -text
-/autogen.sh -text
-/buscaPar.xsl -text
-/configure.ac -text
-/es-oc-supervised.make -text
-/es-oc-unsupervised.make -text
-/es-oc.prob -text svneol=unset#unset
-/es-oc@aran.prob -text svneol=unset#unset
-es-tagger-data/README -text
-/modes.xml -text
-/oc-es-supervised.make -text
-/oc-es-unsupervised.make -text
-/oc-es.prob -text svneol=unset#unset
-oc-tagger-data/README -text
-/oc@aran-es.prob -text
-/principal.xsl -text
+* text eol=lf
 *.dix linguist-language=XML linguist-detectable=true
 *.lrx linguist-language=XML linguist-detectable=true
 *.lsx linguist-language=XML linguist-detectable=true
 *.tsx linguist-language=XML linguist-detectable=true
 *.t[[:digit:]]x linguist-language=XML linguist-detectable=true
+*.prob binary
