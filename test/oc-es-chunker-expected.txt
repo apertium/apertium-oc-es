@@ -1,0 +1,14 @@
+[0DUCxD10owuT#0] ^coma<cm>{^,<cm>$}$
+[/0DUCxD10owuT]
+[4ZthOvZIVQtl#0] ^cerca de<PREP>{^cerca de<pr>$}$
+[/4ZthOvZIVQtl]
+[MRQgGZmdFERc#0] ^cnjadv<cnjadv>{^a no ser que<cnjadv>$}$
+[/MRQgGZmdFERc]
+[RXWdQBLaGl1r#0] ^de<PREP>{^de<pr>$}$
+[/RXWdQBLaGl1r]
+[XnabiXiNVHre#0] ^pro<prnpro><ref><p3><mf><sp>{^se<prn><pro><ref><p3><mf><sp>$}$
+[/XnabiXiNVHre]
+[kj3d7u16A8Dq#0] ^unknown<unknown>{^*tso$}$
+[/kj3d7u16A8Dq]
+[ul7FHQekrA6V#0] ^default<default>{^)<rpar>$}$
+[/ul7FHQekrA6V]

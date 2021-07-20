@@ -262,3 +262,6 @@ apertium_oc_es_DATA=$(PREFIX1).automorf.bin $(PREFIX2).automorf.bin \
 install-data-local: install-modes
 
 CLEANFILES = -r $(TARGETS)
+
+test: all
+	apertium-regtest test

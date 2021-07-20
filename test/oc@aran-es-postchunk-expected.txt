@@ -1,0 +1,18 @@
+[0DUCxD10owuT#0] ^,<cm>$
+[/0DUCxD10owuT]
+[9eFGcTbRdiPC#0] ^os<prn><pro><p2><mf><pl>$
+[/9eFGcTbRdiPC]
+[FZiVeGItUvOf#0] ^que<rel><an><mf><sp>$
+[/FZiVeGItUvOf]
+[Muuxq8wcYBzr#0] ^(<lpar>$
+[/Muuxq8wcYBzr]
+[pMf9f5S-Fv4g#0] ^me<prn><pro><p1><mf><sg>$
+[/pMf9f5S-Fv4g]
+[sJ_KCBICBxqk#0] ^*uéto$
+[/sJ_KCBICBxqk]
+[u3IIvJtdfATx#0] ^!<sent>$
+[/u3IIvJtdfATx]
+[ul7FHQekrA6V#0] ^)<rpar>$
+[/ul7FHQekrA6V]
+[yZCwN8_mC63o#0] ^encarecer<vblex><pii><p1><sg>$
+[/yZCwN8_mC63o]

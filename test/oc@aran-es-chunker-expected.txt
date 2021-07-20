@@ -1,0 +1,18 @@
+[0DUCxD10owuT#0] ^coma<cm>{^,<cm>$}$
+[/0DUCxD10owuT]
+[9eFGcTbRdiPC#0] ^pro<prnpro><p2><mf><pl>{^os<prn><pro><p2><mf><pl>$}$
+[/9eFGcTbRdiPC]
+[FZiVeGItUvOf#0] ^rel<REL><rel><mf><sp>{^que<rel><an><mf><sp>$}$
+[/FZiVeGItUvOf]
+[Muuxq8wcYBzr#0] ^default<default>{^(<lpar>$}$
+[/Muuxq8wcYBzr]
+[pMf9f5S-Fv4g#0] ^pro<prnpro><p1><mf><sg>{^me<prn><pro><p1><mf><sg>$}$
+[/pMf9f5S-Fv4g]
+[sJ_KCBICBxqk#0] ^unknown<unknown>{^*uéto$}$
+[/sJ_KCBICBxqk]
+[u3IIvJtdfATx#0] ^punt<sent>{^!<sent>$}$
+[/u3IIvJtdfATx]
+[ul7FHQekrA6V#0] ^default<default>{^)<rpar>$}$
+[/ul7FHQekrA6V]
+[yZCwN8_mC63o#0] ^verb<SV><vblex><pii><p1><sg><nodef><>{^encarecer<vblex><3><4><5>$}$
+[/yZCwN8_mC63o]

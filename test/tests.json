@@ -1,0 +1,18 @@
+{
+    "es-oc": {
+        "input": "es-oc-input.txt",
+        "mode": "es-oc"
+    },
+    "es-oc@aran": {
+        "input": "es-oc@aran-input.txt",
+        "mode": "es-oc_aran"
+    },
+    "oc-es": {
+        "input": "oc-es-input.txt",
+        "mode": "oc-es"
+    },
+    "oc@aran-es": {
+        "input": "oc@aran-es-input.txt",
+        "mode": "oc_aran-es"
+    }
+}

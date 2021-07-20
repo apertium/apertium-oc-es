@@ -1,0 +1,12 @@
+[0DUCxD10owuT#0] ^coma<cm>{^,<cm>$}$
+[/0DUCxD10owuT]
+[2Ees97qxtvdh#0] ^unknown<unknown>{^*qr$}$
+[/2Ees97qxtvdh]
+[Muuxq8wcYBzr#0] ^default<default>{^(<lpar>$}$
+[/Muuxq8wcYBzr]
+[N1BmjmuxOeFy#0] ^num{^2<num>$}$^unknown<unknown>{^*aa$}$
+[/N1BmjmuxOeFy]
+[u3IIvJtdfATx#0] ^punt<sent>{^!<sent>$}$
+[/u3IIvJtdfATx]
+[ul7FHQekrA6V#0] ^default<default>{^)<rpar>$}$
+[/ul7FHQekrA6V]
